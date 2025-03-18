@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\train\train\bin\Debug\net7.0-windows\train.exe
+C:\Users\User\Desktop\train\train\bin\Debug\net7.0-windows\train.deps.json
+C:\Users\User\Desktop\train\train\bin\Debug\net7.0-windows\train.runtimeconfig.json
+C:\Users\User\Desktop\train\train\bin\Debug\net7.0-windows\train.dll
+C:\Users\User\Desktop\train\train\bin\Debug\net7.0-windows\train.pdb
+C:\Users\User\Desktop\train\train\obj\Debug\net7.0-windows\train.Form1.resources
+C:\Users\User\Desktop\train\train\obj\Debug\net7.0-windows\train.csproj.GenerateResource.cache
+C:\Users\User\Desktop\train\train\obj\Debug\net7.0-windows\train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\train\train\obj\Debug\net7.0-windows\train.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\train\train\obj\Debug\net7.0-windows\train.AssemblyInfo.cs
+C:\Users\User\Desktop\train\train\obj\Debug\net7.0-windows\train.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\train\train\obj\Debug\net7.0-windows\train.dll
+C:\Users\User\Desktop\train\train\obj\Debug\net7.0-windows\refint\train.dll
+C:\Users\User\Desktop\train\train\obj\Debug\net7.0-windows\train.pdb
+C:\Users\User\Desktop\train\train\obj\Debug\net7.0-windows\train.genruntimeconfig.cache
+C:\Users\User\Desktop\train\train\obj\Debug\net7.0-windows\ref\train.dll
